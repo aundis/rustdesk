@@ -1,0 +1,3 @@
+cd libs/hbb_common
+git fetch origin
+git pull origin main
